@@ -10,56 +10,43 @@ redirect_from:
 {% include base_path %}
 
 :mortar_board: Education
-======
+-----
 * Ph.D in Clinical Psychological Sciences, The University of Hong Kong
-* M.S. in Clinical Psychology, Peking University
+* M.Sc. in Clinical Psychology, Peking University
 * B.SocSc. in Psychology, University of Macau
   * Minor: Chinese-English Translation 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+:identification_card: Professional qualifications
+-----
+* Registered psychotherapist, Macau Health Bureau
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+:mag: Research experience
+-----
+* 2022–now:	Postgraduate Researcher (Honorary), Center for Global Health Equity. NYU-Shanghai
+* 2021–2025: PhD student, Sleep Research Clinic and Laboratory, Department of Psychology, The University of Hong Kong
+* 2020–2021: Postgraduate Researcher, Global and Community Mental Health Research Group, NYU Shanghai
+* 2019:	Research Assistant, Centre for Macau Studies, University of Macau
+* 2018–2020: Postgraduate Researcher, Global and Community Mental Health Research Group, Department of Psychology, University of Macau
+* 2015-2018: Master's student, School of Psychological and Cognitive Sciences and Beijing Key Laboratory of Behavior and Mental Health, Peking University, Beijing, China
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+:bulb: Research Grant
+-----
+* 2017, PI, Research Grant of Beijing Shangshan Foundation
 
-Publications
-======
+:page_with_curl: Publications
+-----
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+:speech_balloon: Talks
+-----
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+:eyes: Reviewing Services
+-----
+_AIDS and Behavior_; _Anxiety, Stress, & Coping_; _Archives of Psychiatric Nursing_; _Behaviour & Information Technology_; _Behavioral Sleep Medicine_; _BMJ Open_;_ Cogent Education_; _Computers in Human Behavior Reports_; _Frontiers in Psychology_; _Epidemiology and Psychiatric Sciences_; _Health Psychology_; _Internet Interventions_; _International Journal of Adolescence and Youth_; _International Journal of Disaster Risk Reduction_; _International Journal of Applied Positive Psychology_; _Nature Mental Health_; _Journal of Medical Internet Research_; _JMIR Formative Research_; _JMIR Serious Games_; _Journal of Tropical Medicine_; _Stress and Health_; _The Lancet Primary Care_; _The Lancet Psychiatry_
